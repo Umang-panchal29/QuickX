@@ -1,1 +1,1 @@
-Umang Panchal
+Quick-X is and Ai-Powered Conversation assistant similar to ChatGPT. Quick-X can assist with various task, including answering questions, providing recommendations, and much more. Quick-X is give precise answer for questions.
